@@ -6,14 +6,14 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         String st = sc.next();
-        char[] ch = st.toCharArray();
-        int i = 0;
-        long sum = 0;
-        for (char elem : ch) {
-            int a = (elem-'a') + 1;
-            sum = (int) (sum + a*Math.pow(31, i));
-            i++;
+
+        long result = 0;
+        long power = 1;
+        for (int i = 0; i < n; i++) {
+            int a = st.charAt(i)-'a' + 1;
+            result = (result + a * power) % 1234567891;
+            power = (power * 31) % 1234567891;
         }
-        System.out.println(sum % 1234567891);
+        System.out.println(result);
     }
 }
