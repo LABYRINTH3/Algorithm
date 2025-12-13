@@ -1,9 +1,9 @@
-H , M = map(int, input().split())
-if M < 45:
-    H = H - 1
-    if H < 0:
-        H = H + 24
-    M = M + 15
+num_hour, num_minute = map(int, input().strip().split())
+if num_minute < 45:
+    num_hour -= 1
+    num_minute += 15
 else:
-    M = M -45
-print(H, M)
+    num_minute -= 45
+if num_hour < 0:
+    num_hour = 23
+print(num_hour, num_minute)
