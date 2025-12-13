@@ -1,11 +1,12 @@
-num1, num2, num3 = map(int, input().split())
-if num1 == num2 and num1 == num3 and num2 == num3:
-    print(10000 + 1000 * num1)
-elif num1 == num2:
-    print(1000 + 100 * num1)
-elif num1 == num3:
-    print(1000 + 100 * num1)
-elif num2 == num3:
-    print(1000 + 100 * num2)
+nums = list(map(int, input().strip().split()))
+nums.sort()
+if nums[0] == nums[1] == nums[2]:
+    print(10000 + nums[0] * 1000)
+elif nums[0] == nums[1]:
+    print(1000 + 100 * nums[0])
+elif nums[1] == nums[2]:
+    print(1000 + 100 * nums[1])
+elif nums[0] == nums[2]:
+    print(1000 + 100 * nums[0])
 else:
-    print(max(num1, num2, num3) * 100)
+    print(100 * nums[2])
