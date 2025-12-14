@@ -1,5 +1,3 @@
-n = int(input(""))
-sum = 0
-for i in range(1, n+1):
-    sum = sum + i
-print(sum)
+num = int(input())
+
+print(int(num * (num + 1)/2))
