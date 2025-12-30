@@ -1,6 +1,3 @@
-from calendar import c
-
-
 matrix = [[0] * 100 for _ in range(100)]
 
 
