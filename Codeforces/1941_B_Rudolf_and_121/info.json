@@ -1,0 +1,38 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "1941",
+  "contestId": "1941",
+  "problemIndex": "B",
+  "problemTitle": "Rudolf and 121",
+  "problemUrl": "https://codeforces.com/problemset/problem/1941/B",
+  "submissionUrl": "https://codeforces.com/problemset/submission/1941/372634721",
+  "verdict": "Accepted",
+  "verdictCode": "OK",
+  "language": "PyPy 3-64",
+  "timeConsumed": "93 ms",
+  "memoryConsumed": "26500 KB",
+  "submittedAt": "Apr/27/2026 01:28UTC+9",
+  "directory": "Codeforces/1941_B_Rudolf_and_121",
+  "solutionPath": "Codeforces/1941_B_Rudolf_and_121/solution.py",
+  "problem": {
+    "title": "Rudolf and 121",
+    "timeLimit": "2 seconds",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "samples": [
+      {
+        "input": "751 3 5 5 252 4 4 5 150 1 3 3 165 6 0 2 3 041 2 7 237 1 041 1 1 1",
+        "output": "YES\nNO\nYES\nNO\nNO\nNO\nNO"
+      }
+    ]
+  },
+  "syncedAt": "2026-04-26T16:28:19.108Z"
+}
