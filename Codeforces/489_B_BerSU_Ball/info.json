@@ -1,0 +1,48 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "489",
+  "contestId": "489",
+  "problemIndex": "B",
+  "problemTitle": "BerSU Ball",
+  "problemUrl": "https://codeforces.com/problemset/problem/489/B",
+  "submissionUrl": "https://codeforces.com/problemset/submission/489/372732409",
+  "verdict": "Accepted",
+  "verdictCode": null,
+  "language": "PyPy 3-64",
+  "timeConsumed": "78 ms",
+  "memoryConsumed": "0 KB",
+  "submittedAt": "Apr/28/2026 01:01UTC+9",
+  "directory": "Codeforces/489_B_BerSU_Ball",
+  "solutionPath": "Codeforces/489_B_BerSU_Ball/solution.py",
+  "problem": {
+    "title": "BerSU Ball",
+    "timeLimit": "1 second",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "stdin",
+    "outputFile": "stdout",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "samples": [
+      {
+        "input": "4\n1 4 6 2\n5\n5 1 5 7 9",
+        "output": "3"
+      },
+      {
+        "input": "4\n1 2 3 4\n4\n10 11 12 13",
+        "output": "0"
+      },
+      {
+        "input": "5\n1 1 1 1 1\n3\n1 2 3",
+        "output": "2"
+      }
+    ]
+  },
+  "syncedAt": "2026-04-27T16:02:25.794Z"
+}
