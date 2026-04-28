@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T17:46:46.014Z",
+  "updatedAt": "2026-04-28T17:57:53.558Z",
   "submissions": [
     {
       "platform": "Codeforces",
@@ -19,7 +19,29 @@
       "directory": "Codeforces/2226_B_Everything_Everywhere",
       "solutionPath": "Codeforces/2226_B_Everything_Everywhere/solution.py",
       "branch": "main",
-      "syncedAt": "2026-04-28T17:46:45.069Z"
+      "commitSha": null,
+      "commitUrl": null,
+      "syncedAt": "2026-04-28T17:46:45.069Z",
+      "sourcePath": null
+    },
+    {
+      "platform": "Codeforces",
+      "submissionId": "372836516",
+      "contestId": "2226",
+      "problemIndex": "A",
+      "problemTitle": "Disturbing Distribution",
+      "problemUrl": "https://codeforces.com/problemset/problem/2226/A",
+      "submissionUrl": "https://codeforces.com/problemset/submission/2226/372836516",
+      "verdict": "Accepted",
+      "verdictCode": "OK",
+      "language": "PyPy 3-64",
+      "timeConsumed": "62 ms",
+      "memoryConsumed": "2300 KB",
+      "submittedAt": "Apr/29/2026 00:04UTC+9",
+      "directory": "Codeforces/2226_A_Disturbing_Distribution",
+      "solutionPath": "Codeforces/2226_A_Disturbing_Distribution/solution.py",
+      "branch": "main",
+      "syncedAt": "2026-04-28T17:57:53.033Z"
     }
   ]
 }

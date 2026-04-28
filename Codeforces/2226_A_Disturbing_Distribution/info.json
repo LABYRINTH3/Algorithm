@@ -1,0 +1,35 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "372836516",
+  "contestId": "2226",
+  "problemIndex": "A",
+  "problemTitle": "Disturbing Distribution",
+  "problemUrl": "https://codeforces.com/problemset/problem/2226/A",
+  "submissionUrl": "https://codeforces.com/problemset/submission/2226/372836516",
+  "verdict": "Accepted",
+  "verdictCode": "OK",
+  "language": "PyPy 3-64",
+  "timeConsumed": "62 ms",
+  "memoryConsumed": "2300 KB",
+  "submittedAt": "Apr/29/2026 00:04UTC+9",
+  "directory": "Codeforces/2226_A_Disturbing_Distribution",
+  "solutionPath": "Codeforces/2226_A_Disturbing_Distribution/solution.py",
+  "problem": {
+    "title": "Disturbing Distribution",
+    "timeLimit": "1 second",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "samples": [
+      {
+        "input": "351 2 1 2 333 2 141 1 1 1",
+        "output": "761"
+      }
+    ]
+  },
+  "syncedAt": "2026-04-28T17:57:53.554Z"
+}
