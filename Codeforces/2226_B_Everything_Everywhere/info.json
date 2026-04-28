@@ -1,6 +1,6 @@
 {
   "platform": "Codeforces",
-  "submissionId": "2226",
+  "submissionId": "372848356",
   "contestId": "2226",
   "problemIndex": "B",
   "problemTitle": "Everything Everywhere",
@@ -14,6 +14,23 @@
   "submittedAt": "Apr/29/2026 00:30UTC+9",
   "directory": "Codeforces/2226_B_Everything_Everywhere",
   "solutionPath": "Codeforces/2226_B_Everything_Everywhere/solution.py",
-  "problem": {},
-  "syncedAt": "2026-04-28T17:18:32.484Z"
+  "problem": {
+    "title": "Everything Everywhere",
+    "timeLimit": "1.5 seconds",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "samples": [
+      {
+        "input": "321 296 1 5 9 4 7 2 8 341 2 3 4",
+        "output": "103"
+      }
+    ]
+  },
+  "syncedAt": "2026-04-28T17:46:45.712Z"
 }

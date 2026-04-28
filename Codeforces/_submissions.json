@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-28T17:46:46.014Z",
+  "submissions": [
+    {
+      "platform": "Codeforces",
+      "submissionId": "372848356",
+      "contestId": "2226",
+      "problemIndex": "B",
+      "problemTitle": "Everything Everywhere",
+      "problemUrl": "https://codeforces.com/problemset/problem/2226/B",
+      "submissionUrl": "https://codeforces.com/problemset/submission/2226/372848356",
+      "verdict": "Accepted",
+      "verdictCode": "OK",
+      "language": "PyPy 3-64",
+      "timeConsumed": "93 ms",
+      "memoryConsumed": "20200 KB",
+      "submittedAt": "Apr/29/2026 00:30UTC+9",
+      "directory": "Codeforces/2226_B_Everything_Everywhere",
+      "solutionPath": "Codeforces/2226_B_Everything_Everywhere/solution.py",
+      "branch": "main",
+      "syncedAt": "2026-04-28T17:46:45.069Z"
+    }
+  ]
+}
