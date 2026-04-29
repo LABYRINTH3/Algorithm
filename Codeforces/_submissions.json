@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-29T23:36:42.663Z",
+  "submissions": [
+    {
+      "platform": "Codeforces",
+      "submissionId": "373000531",
+      "contestId": "433",
+      "problemIndex": "B",
+      "problemTitle": "Kuriyama Mirai's Stones",
+      "problemUrl": "https://codeforces.com/problemset/problem/433/B",
+      "submissionUrl": "https://codeforces.com/problemset/submission/433/373000531",
+      "verdict": "Accepted",
+      "verdictCode": null,
+      "language": "PyPy 3-64",
+      "timeConsumed": "171 ms",
+      "memoryConsumed": "14000 KB",
+      "submittedAt": "Apr/30/2026 08:36UTC+9",
+      "directory": "Codeforces/433_B_Kuriyama_Mirai's_Stones",
+      "solutionPath": "Codeforces/433_B_Kuriyama_Mirai's_Stones/solution.py",
+      "branch": "main",
+      "syncedAt": "2026-04-29T23:36:42.182Z"
+    }
+  ]
+}
