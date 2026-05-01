@@ -1,7 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T23:36:42.663Z",
+  "updatedAt": "2026-05-01T05:31:18.210Z",
   "submissions": [
+    {
+      "platform": "Codeforces",
+      "submissionId": "373197597",
+      "contestId": "492",
+      "problemIndex": "B",
+      "problemTitle": "Vanya and Lanterns",
+      "problemUrl": "https://codeforces.com/problemset/problem/492/B",
+      "submissionUrl": "https://codeforces.com/problemset/submission/492/373197597",
+      "verdict": "Accepted",
+      "verdictCode": null,
+      "language": "PyPy 3-64",
+      "timeConsumed": "78 ms",
+      "memoryConsumed": "100 KB",
+      "submittedAt": "May/01/2026 14:31UTC+9",
+      "directory": "Codeforces/492_B_Vanya_and_Lanterns",
+      "solutionPath": "Codeforces/492_B_Vanya_and_Lanterns/solution.py",
+      "branch": "main",
+      "syncedAt": "2026-05-01T05:31:17.652Z"
+    },
     {
       "platform": "Codeforces",
       "submissionId": "373000531",
@@ -19,7 +38,10 @@
       "directory": "Codeforces/433_B_Kuriyama_Mirai's_Stones",
       "solutionPath": "Codeforces/433_B_Kuriyama_Mirai's_Stones/solution.py",
       "branch": "main",
-      "syncedAt": "2026-04-29T23:36:42.182Z"
+      "commitSha": null,
+      "commitUrl": null,
+      "syncedAt": "2026-04-29T23:36:42.182Z",
+      "sourcePath": null
     }
   ]
 }
