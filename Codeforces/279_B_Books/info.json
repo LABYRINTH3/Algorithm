@@ -1,0 +1,42 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "373260566",
+  "contestId": "279",
+  "problemIndex": "B",
+  "problemTitle": "Books",
+  "problemUrl": "https://codeforces.com/problemset/problem/279/B",
+  "submissionUrl": "https://codeforces.com/problemset/submission/279/373260566",
+  "verdict": "Accepted",
+  "verdictCode": null,
+  "language": "PyPy 3-64",
+  "timeConsumed": "218 ms",
+  "memoryConsumed": "14200 KB",
+  "submittedAt": "May/02/2026 03:04UTC+9",
+  "directory": "Codeforces/279_B_Books",
+  "solutionPath": "Codeforces/279_B_Books/solution.py",
+  "problem": {
+    "title": "Books",
+    "timeLimit": "2 seconds",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "stdin",
+    "outputFile": "stdout",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "samples": [
+      {
+        "input": "4 5\n3 1 2 1",
+        "output": "3"
+      },
+      {
+        "input": "3 3\n2 2 3",
+        "output": "1"
+      }
+    ]
+  },
+  "syncedAt": "2026-05-01T18:05:04.212Z"
+}
