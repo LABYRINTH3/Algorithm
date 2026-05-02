@@ -1,0 +1,44 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "373340758",
+  "contestId": "520",
+  "problemIndex": "B",
+  "problemTitle": "Two Buttons",
+  "problemUrl": "https://codeforces.com/problemset/problem/520/B",
+  "submissionUrl": "https://codeforces.com/problemset/submission/520/373340758",
+  "verdict": "Accepted",
+  "verdictCode": null,
+  "language": "PyPy 3-64",
+  "timeConsumed": "78 ms",
+  "memoryConsumed": "1300 KB",
+  "submittedAt": "May/03/2026 00:22UTC+9",
+  "directory": "Codeforces/520_B_Two_Buttons",
+  "solutionPath": "Codeforces/520_B_Two_Buttons/solution.py",
+  "problem": {
+    "title": "Two Buttons",
+    "timeLimit": "2 seconds",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "shortest paths",
+      "*1400"
+    ],
+    "samples": [
+      {
+        "input": "4 6",
+        "output": "2"
+      },
+      {
+        "input": "10 1",
+        "output": "9"
+      }
+    ]
+  },
+  "syncedAt": "2026-05-02T15:22:16.183Z"
+}
