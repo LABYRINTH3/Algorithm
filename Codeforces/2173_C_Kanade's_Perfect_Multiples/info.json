@@ -1,0 +1,38 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "374093125",
+  "contestId": "2173",
+  "problemIndex": "C",
+  "problemTitle": "Kanade's Perfect Multiples",
+  "problemUrl": "https://codeforces.com/problemset/problem/2173/C",
+  "submissionUrl": "https://codeforces.com/problemset/submission/2173/374093125",
+  "verdict": "Accepted",
+  "verdictCode": "OK",
+  "language": "PyPy 3-64",
+  "timeConsumed": "140 ms",
+  "memoryConsumed": "34800 KB",
+  "submittedAt": "May/10/2026 20:06UTC+9",
+  "directory": "Codeforces/2173_C_Kanade's_Perfect_Multiples",
+  "solutionPath": "Codeforces/2173_C_Kanade's_Perfect_Multiples/solution.py",
+  "problem": {
+    "title": "Kanade's Perfect Multiples",
+    "timeLimit": "2 seconds",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "number theory",
+      "*1400"
+    ],
+    "samples": [
+      {
+        "input": "44 63 2 4 65 51 2 3 4 53 62 3 61 22",
+        "output": "22 311-112"
+      }
+    ]
+  },
+  "syncedAt": "2026-05-10T11:07:25.106Z"
+}
