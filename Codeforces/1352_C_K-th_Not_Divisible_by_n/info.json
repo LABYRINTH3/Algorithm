@@ -1,0 +1,36 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "374738017",
+  "contestId": "1352",
+  "problemIndex": "C",
+  "problemTitle": "K-th Not Divisible by n",
+  "problemUrl": "https://codeforces.com/problemset/problem/1352/C",
+  "submissionUrl": "https://codeforces.com/problemset/submission/1352/374738017",
+  "verdict": "Accepted",
+  "verdictCode": null,
+  "language": "PyPy 3-64",
+  "timeConsumed": "62 ms",
+  "memoryConsumed": "1400 KB",
+  "submittedAt": "May/16/2026 23:07UTC+9",
+  "directory": "Codeforces/1352_C_K-th_Not_Divisible_by_n",
+  "solutionPath": "Codeforces/1352_C_K-th_Not_Divisible_by_n/solution.py",
+  "problem": {
+    "title": "K-th Not Divisible by n",
+    "timeLimit": "1 second",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "samples": [
+      {
+        "input": "6\n3 7\n4 12\n2 1000000000\n7 97\n1000000000 1000000000\n2 1",
+        "output": "10\n15\n1999999999\n113\n1000000001\n1"
+      }
+    ]
+  },
+  "syncedAt": "2026-05-16T14:07:54.577Z"
+}
