@@ -1,0 +1,35 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "374808468",
+  "contestId": "2228",
+  "problemIndex": "B",
+  "problemTitle": "Remilia Plays Soku",
+  "problemUrl": "https://codeforces.com/problemset/problem/2228/B",
+  "submissionUrl": "https://codeforces.com/problemset/submission/2228/374808468",
+  "verdict": "Accepted",
+  "verdictCode": "OK",
+  "language": "PyPy 3-64",
+  "timeConsumed": "78 ms",
+  "memoryConsumed": "3600 KB",
+  "submittedAt": "May/17/2026 00:39UTC+9",
+  "directory": "Codeforces/2228_B_Remilia_Plays_Soku",
+  "solutionPath": "Codeforces/2228_B_Remilia_Plays_Soku/solution.py",
+  "problem": {
+    "title": "Remilia Plays Soku",
+    "timeLimit": "1 second",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "games",
+      "implementation"
+    ],
+    "samples": [
+      {
+        "input": "42 1 2 04 3 2 14 2 3 116 8 4 2",
+        "output": "1226"
+      }
+    ]
+  },
+  "syncedAt": "2026-05-17T01:31:37.214Z"
+}
