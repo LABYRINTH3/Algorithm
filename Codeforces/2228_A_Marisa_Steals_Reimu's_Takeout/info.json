@@ -1,0 +1,35 @@
+{
+  "platform": "Codeforces",
+  "submissionId": "374789153",
+  "contestId": "2228",
+  "problemIndex": "A",
+  "problemTitle": "Marisa Steals Reimu's Takeout",
+  "problemUrl": "https://codeforces.com/problemset/problem/2228/A",
+  "submissionUrl": "https://codeforces.com/problemset/submission/2228/374789153",
+  "verdict": "Accepted",
+  "verdictCode": "OK",
+  "language": "PyPy 3-64",
+  "timeConsumed": "78 ms",
+  "memoryConsumed": "1500 KB",
+  "submittedAt": "May/17/2026 00:20UTC+9",
+  "directory": "Codeforces/2228_A_Marisa_Steals_Reimu's_Takeout",
+  "solutionPath": "Codeforces/2228_A_Marisa_Steals_Reimu's_Takeout/solution.py",
+  "problem": {
+    "title": "Marisa Steals Reimu's Takeout",
+    "timeLimit": "1 second",
+    "memoryLimit": "256 megabytes",
+    "inputFile": "standard input",
+    "outputFile": "standard output",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "samples": [
+      {
+        "input": "340 0 0 031 2 051 2 1 2 1",
+        "output": "422"
+      }
+    ]
+  },
+  "syncedAt": "2026-05-17T01:32:48.174Z"
+}
